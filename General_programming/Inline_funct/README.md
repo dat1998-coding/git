@@ -27,10 +27,10 @@ Cons:
 
 # Fun fact
 - All functions in a class is inline functions:
-    if (define functions inside class)
-        no need inline keyword
-    else 
-        use keyword if need
+    # if (define functions inside class)
+    #    no need inline keyword
+    # else 
+    #    use keyword if need
 - In C we use Macro for its inline expansion character, but it's error-prone. C++ provide similar mechanics but improve in error detection, inline Keyword.
 
 
