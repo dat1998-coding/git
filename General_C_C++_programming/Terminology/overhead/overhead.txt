@@ -1,0 +1,13 @@
+Overhead is a terminology to use when
+- There are few differents indirect steps to do to reach the main goal
+- The resources needs to operate a task 
+    Ex1:To go to a specific destination we can walk or use a car. If we simply go to near location, waking is a good and direct method to choose
+        But we can also choose car instead, and the overhead from using a car is not really worthwhile (gas, money to buy car, how to drive, ...)
+        In a differents situation, we want to go to a far away land, walking may not be a good option, while we can bare the indirect cost of using car in the scenario
+    Ex2:Inline is an example of this terminology, we use inline for small function as it can boost the speed with the small cost of program size increase.
+        But when function is too big, Inline will expanse total size way more than it need to.
+    => Depend on the situation, we can choose to bare the overhead (or indirect cost) or not.
+
+    Ref:
+    https://www.quora.com/What-is-overhead-in-programming
+    https://stackoverflow.com/questions/2860234/what-is-overhead/2860263

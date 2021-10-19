@@ -1,0 +1,8 @@
+- Add inline introduction
+- Add overhead definition
+- Add Header and some related info
+- Add Forward Decleration definition
+- Study steps to create object file
+	https://codesteps.com/2014/06/29/c-programming-how-to-create-and-use-object-files/
+	-c to create a object file and -I to specify include path
+- Add namespace part (not finish)
