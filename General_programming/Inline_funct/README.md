@@ -10,6 +10,7 @@ inline void foo(){
 # Pros and Cons
 Pros: 
 - Increase speed as we directly paste the code to exact possition where inline function called => Reduce (the result) return time compare to calling normal function
+
 Cons:
 - Increase the size of program as when calling inline function many times, many identical codes will be pasted.
 - Too many inline functions will reduce instruction cached rate hit, slower speed of instruction from cache to primary memory

@@ -8,6 +8,6 @@ inline int add(int a,int b)
 int main()
 {
     int a=1,b=2;
-    std::cout<<add(a,b);// this replace cout<< 1+2 without need for calling function 
+    std::cout<<add(a,b);// this replace cout<< 1+2 without need for calling 
     return 0;
 }
