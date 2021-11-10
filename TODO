@@ -2,3 +2,6 @@
 - Continue C++ Gg code convention
 - ABI Compatibility
 - intra in programming
+- Abseil Flag lib: learn how to set flag (c++) - https://abseil.io/docs/cpp/guides/flags
+- extern keyword - Compatibility of C and C++
+

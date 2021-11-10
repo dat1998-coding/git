@@ -1,5 +1,0 @@
-- Personal Access Token (PAT)
-	Github don't allow to asscess through password anymore, so PAT
-	Tutorial: https://www.youtube.com/watch?v=kHkQnuYzwoo
-	git config --global credential.helper cache #cached the last config info
-	git config --global --unset credential.helper #unset old info
